@@ -1,0 +1,16 @@
+{
+  "info": {
+    "version": 1,
+    "author": "photoshop lsr plugin(Windows) v2.3.2"
+  },
+  "properties": {
+    "frame-size": {
+      "width": 746,
+      "height": 675
+    },
+    "frame-center": {
+      "x": 558,
+      "y": 430.5
+    }
+  }
+}
